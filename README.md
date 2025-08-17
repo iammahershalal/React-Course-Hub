@@ -6,7 +6,7 @@ Index of projects completed during the course **"React - The Complete Guide (inc
 ---
 
 ## 📂 Index
-| Section | Folder | Highlights | Status |
+| Section | Repository | Highlights | Status |
 |---------|:------:|------------|:------:|
 | 03 | [`S03-React-Essentials`](https://github.com/WodaMineralna/S03-React-Essentials-Components-JSX-Props-State-and-More) | Components, JSX, props, state basics | ✅ |
 | 04 | [`S04-Deep-Dive`](https://github.com/WodaMineralna/S04-React-Essentials-Deep-Dive) | Composing UIs, render cycles, key rules | ✅ |
